@@ -1,1 +1,1 @@
-module github.com/dgsb/gomod_test
+module github.com/dgsb/gomod_test/v2
